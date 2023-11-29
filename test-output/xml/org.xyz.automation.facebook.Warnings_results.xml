@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="10.873">
+  <properties />
+  
+  
+            <testcase name="handlealerts" time="5.833" classname="org.xyz.automation.facebook.Warnings" />
+                <testcase name="handleframes" time="5.040" classname="org.xyz.automation.facebook.Warnings" />
+      
+</testsuite>
